@@ -1,0 +1,10 @@
+.calculo {
+  font-family: monospace;
+  background-color: aliceblue;
+}
+
+.resultado {
+  color: rgb(153, 51, 51);
+  font-weight: bold;
+  font-family: Verdana;
+}
